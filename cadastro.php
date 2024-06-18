@@ -86,7 +86,7 @@ include 'header.php';
                                     <input type="password" class="form-control" name="senha" id="s" placeholder="Senha">
                                 </div> 
                                 </div>
-                                <button type="submit" name="salvar_produto" class="site-btn">Cadatrar</button>
+                                <button type="submit" name="salvar_produto" class="site-btn">Cadastrar</button>
                             </form>
                         </div>
                     </div>

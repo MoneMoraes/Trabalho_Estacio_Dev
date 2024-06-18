@@ -34,12 +34,11 @@
                         <div class="contact__form">
                             <h5>Login</h5>
                             <form action="processar.php" method="post">
-                               
                                 <div class="form-group">                                  
-                                <input type="text" name="username" id="userName" placeholder="Username">                             
+                                <input type="text" name="username" id="userName" placeholder="digite seu login">                             
                                 </div>
                                 <div class="form-group">
-                                <input type="password" name="password" id="pwd" placeholder="Password">
+                                <input type="password" name="password" id="pwd" placeholder="digite sua senha">
                                 </div> 
                                 </div>
                                 <button type="submit" class="site-btn">Entrar</button>
